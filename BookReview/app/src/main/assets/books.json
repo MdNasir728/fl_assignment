@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A classic American novel set in the Jazz Age, exploring themes of wealth, love, and the American Dream through the story of Jay Gatsby and his obsession with Daisy Buchanan.",
+    "thumbnailUrl": "book_gatsby",
+    "rating": 4.2
+  },
+  {
+    "id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A gripping tale of racial injustice and childhood innocence set in the American South, told through the eyes of Scout Finch as her father defends a black man falsely accused of rape.",
+    "thumbnailUrl": "book_mockingbird",
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel that explores themes of totalitarianism, surveillance, and truth in a society controlled by Big Brother and the Party.",
+    "thumbnailUrl": "book_1984",
+    "rating": 4.4
+  },
+  {
+    "id": "4",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century, following the relationship between Elizabeth Bennet and Mr. Darcy.",
+    "thumbnailUrl": "book_pride",
+    "rating": 4.3
+  },
+  {
+    "id": "5",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A coming-of-age story that follows Holden Caulfield, a teenager who has been expelled from prep school and wanders New York City for several days.",
+    "thumbnailUrl": "book_catcher",
+    "rating": 3.9
+  },
+  {
+    "id": "6",
+    "title": "The Rise of Romans",
+    "author": "Anthony Everitt",
+    "description": "A comprehensive look at the rise of the Roman Empire, exploring the political, military, and cultural factors that led to Rome's dominance in the ancient world.",
+    "thumbnailUrl": "book_romans",
+    "rating": 4.1
+  },
+  {
+    "id": "7",
+    "title": "Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the Harry Potter series, following a young wizard's journey as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+    "thumbnailUrl": "book_harry_potter",
+    "rating": 4.6
+  }
+]
